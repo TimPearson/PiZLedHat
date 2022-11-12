@@ -5,12 +5,12 @@
 
 This a PCB design in EAGLE CAD, it can be used to make a hat to sit on a PiZero and drive a batch of LEDS - It also has an interface and step down facility so the LEDs and the PiZero can be driven off the same 9V power supply.
 
-Parts List:
-3 x ULN2003A-DIL NPN Seven Darlington Array
-1 x 40 PIN (2x20) 2.54mm pitch Female Header
-1 x TSR 1-2450 DC/DC converter
-1 x 2 Way PCB Terminal Block Connector 2.54mm pitch
-4 x IDC Box Header Connector 10 Way 2.54mm pitch
+Parts List:\
+3 x ULN2003A-DIL NPN Seven Darlington Array\
+1 x 40 PIN (2x20) 2.54mm pitch Female Header\
+1 x TSR 1-2450 DC/DC converter\
+1 x 2 Way PCB Terminal Block Connector 2.54mm pitch\
+4 x IDC Box Header Connector 10 Way 2.54mm pitch\
 
 
 
